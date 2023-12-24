@@ -1,1 +1,6 @@
-# Dependencias do Python para o backend 
+Flask==1.1.2
+Flask-CORS==3.0.10
+Flask-SQLAlchemy==2.5.1
+psycopg2-binary==2.9.1
+python-dotenv==0.19.0
+pytest==6.2.4
