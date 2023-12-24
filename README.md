@@ -49,11 +49,6 @@ projeto-to-do-list/
 └── README.md                      # Este arquivo
 ```
 
-## Instalação e Execução
-
-Claro, aqui está a seção detalhada de **Instalação e Execução** para o seu README, considerando tanto o backend quanto o frontend do seu projeto "To Do List".
-
----
 
 ## Instalação e Execução
 
